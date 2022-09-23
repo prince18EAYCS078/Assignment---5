@@ -1,0 +1,43 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "firstName": "shakti",
+      "lastName": "mishra",
+      "email": "mishra@gmail.com",
+      "mobile": "36982654344",
+      "salary": "$233434"
+    },
+    {
+      "id": 3,
+      "firstName": "alex",
+      "lastName": "carry",
+      "email": "alex.carry@gmail.com",
+      "mobile": "564568343",
+      "salary": "867767"
+    },
+    {
+      "id": 4,
+      "firstName": "ayush",
+      "lastName": "thakur",
+      "email": "ayush@gmail.com",
+      "mobile": "7689567548",
+      "salary": "75646"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
